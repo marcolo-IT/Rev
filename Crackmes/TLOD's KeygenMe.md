@@ -70,5 +70,4 @@ If I type the name to be "a", then I expect the password to be its corresponding
 If I type the name to be "ab", then I expect the password to be the product of ascii value of a and ascii value of b which is 97 * 98 = 9506.
 If I type the name to be "abc", then the password should be ((98+97)*99-97) * 99 = 1901592
 
-![image](https://user-images.githubusercontent.com/81070073/122011183-b0224800-cd70-11eb-92bc-75155612edf3.png)
-
+![image](https://user-images.githubusercontent.com/81070073/122011340-d3e58e00-cd70-11eb-9da3-3463df22f5fe.png)
